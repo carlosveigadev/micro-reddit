@@ -20,9 +20,9 @@ In this project, we built the data structures necessary to support link submissi
 
 👤 **Carlos Veiga**
 
-- Github: [@wrakc](https://github.com/wrakc)
-- Twitter: [@carlosveig](https://twitter.com/carlosveig)
-- Linkedin: [chveiga](https://linkedin.com/chveiga)
+- Github: [@carlosveigadev](https://github.com/carlosveigadev)
+- Twitter: [@carlosveigadev](https://twitter.com/carlosveigadev)
+- Linkedin: [carlosveigadev](https://linkedin.com/carlosveigadev)
 
 👤 **Sanad Walid Abujbara**
 
